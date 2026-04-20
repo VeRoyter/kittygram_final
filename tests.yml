@@ -1,0 +1,4 @@
+repo_owner: ваш_логин_на_гитхабе
+kittygram_domain: https://домен_киттиграма (или http://localhost:9000)
+taski_domain: https://домен_таски (или http://localhost:8000)
+dockerhub_username: veroyter
